@@ -4,3 +4,4 @@
 + **CSS**
 * **JavaScript**
    - **LocalStorage**
+   - **DOM**
